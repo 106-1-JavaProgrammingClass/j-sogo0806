@@ -9,9 +9,6 @@ public class hw16 {
         System.out.println(v1 - v2);
         System.out.println(v1 * v2);
 
-        char v1 = sca.next().charAt(0);
-        System.out.println((int)v1);
     }
 }
 
-}
